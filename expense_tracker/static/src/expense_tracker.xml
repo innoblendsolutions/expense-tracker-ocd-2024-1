@@ -3,8 +3,12 @@
 
     <t t-name="expense_tracker.root">
         <div class="d-flex expense_tracker_app">
+<<<<<<< HEAD
             <Header/>
             <Container/>
+=======
+            <h1>Hello World!</h1>
+>>>>>>> 5a3c4c1 ([Solution] 1.2 Add template to display hello world component)
         </div>
     </t>
 
